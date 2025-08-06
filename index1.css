@@ -160,7 +160,7 @@ img {
 table{
     border-color: rgb(54, 4, 4);
     display: flexbox;
-    position: fixed;
+    position: absolute;
     left: 25%;
     bottom: 30%;
 }
@@ -217,3 +217,4 @@ i{
     margin-top: 15px;
 
 }
+
