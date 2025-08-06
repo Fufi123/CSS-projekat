@@ -160,7 +160,7 @@ img {
 table{
     border-color: rgb(54, 4, 4);
     display: flexbox;
-    position: absolute;
+    position: fixed;
     left: 25%;
     bottom: 30%;
 }
@@ -215,4 +215,5 @@ i{
 }
 #spirits{
     margin-top: 15px;
+
 }
